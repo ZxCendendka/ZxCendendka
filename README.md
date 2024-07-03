@@ -1,43 +1,37 @@
-```markdown
-## 👋 About Me
+## About Me
 
-I'm Egor, a passionate Python developer focusing on crafting Telegram bots and modules for user bots. 
+👋  Hi, I'm Egor, a Python developer passionate about building Telegram bots and modules for user bots.
 
-Here's a bit more about me:
+*Here's a bit more about me:*
 
-• Age: 17
-• Born: September 10, 2006
-• Location: Ulan-Ude, Russia
+* *Age:* 17
+* *Born:* September 10, 2006
+* *Location:* Ulan-Ude, Russia
 
-My Journey:
+*What I do:*
 
-I'm always diving into the world of Python, exploring new possibilities and creating engaging Telegram bots. I love bringing ideas to life and making bots that are both functional and fun!
+* Develop Telegram bots using Python.
+* Create modules for user bots, enhancing their functionality.
 
-What I Do:
+*Why GitHub?*
 
-• Develop Telegram bots: I build bots for various purposes, from simple chatbots to complex tools with unique features.
-• Create modules for user bots: I develop modules that can be integrated into existing bots to enhance their functionality and capabilities. 
+I haven't published any of my projects on GitHub yet - I'm a little lazy! 😅 
 
-Why Not GitHub?
+*How to reach me:*
 
-Okay, I admit it. I'm a little lazy! 🤫 I haven't published any of my projects on GitHub yet, but I'm planning to change that soon!
+* *Telegram Channel:* [zxcendi](https://t.me/zxcendi)
+* *Telegram:* [zxcendechka_off](https://t.me/zxcendechka_off)
+* *Bot:* [animesearh_bot](https://t.me/animesearh_bot)
 
-Reach Out:
+*My Skills:*
 
-• Telegram Channel: @zxcendi
-• Telegram: @zxcendechka_off
-• Bot: @animesearh_bot
+* Python programming
+* Telegram Bot API
+* Designing and implementing bot features
 
-My Skills:
+*Helping Hands:*
 
-• Python Programming: I'm fluent in Python, and I love exploring its versatility.
-• Telegram Bot API: I'm comfortable working with the Telegram Bot API to build robust and interactive bots.
-• Bot Design: I strive to create user-friendly and engaging bots that deliver a smooth experience.
+I'm always willing to lend a hand with Python coding! Feel free to reach out for help or advice. 
 
-Helping Hands:
+*Let's connect!*
 
-I'm always happy to help fellow developers with Python coding! Reach out if you need a helping hand or have questions.
-
-Let's Connect!
-
----
